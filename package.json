@@ -1,7 +1,7 @@
 {
   "name": "front",
   "version": "0.1.0",
-  "homepage": "https://Fizgiggle.github.io/final-project",
+  "homepage": "https://github.com/Fizgiggle/project-web.git",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -27,7 +27,7 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
+  "browserslist": { 
     "production": [
       ">0.2%",
       "not dead",
